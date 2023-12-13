@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3236fd3e-70c8-40b3-a670-3b04bbdf05ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/java/com/example/android_study/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/java/com/example/android_study/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/java/com/example/android_study/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Android_study/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Introduction/app/src/main/java/com/example/introduction/MainActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AndroidProject/Introduction/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/.idea/python代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/.idea/代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/pythonProject1/.idea/井字棋游戏.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/python实验/.idea/python实验.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python代码/自学/.idea/python实验.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2NjMBx9fNWFfRYA9labKRQ7Nlgp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Code/java代码/社区系统/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3236fd3e-70c8-40b3-a670-3b04bbdf05ba" name="Changes" comment="" />
+      <created>1680172905544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680172905544</updated>
+      <workItem from="1680172906619" duration="3749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
